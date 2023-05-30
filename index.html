@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
+  <!-- Include jQuery library -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- Include jQuery UI library -->
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+  <!-- Include custom script -->
+  <script src="script.js"></script>
+  <!-- Include YouTube Iframe API -->
+  <script src="https://www.youtube.com/iframe_api"></script>
+</head>
+<body background="BG1.webp">
+
+  <a href="Descriptions.html"></a>
+  <img src="caliunityupdate.png" class="Logo">
+  <div class="skillTreeContainer">
+    <div class="draggableContainer">
+      <!-- Image with a usemap attribute for image mapping -->
+      <img id="draggableImage" src="skilltree.png" usemap="#image-map">
+    </div>
+  </div>
+
+  <div id="overlay"></div> <!-- New overlay div -->
+
+  <!-- Image map with clickable areas -->
+  <map id="myMap" name="image-map">
+    <area role="click" alt="vertical row" title="vertical row" href="#" coords="1452,1631,57" shape="circle">
+    <area role="click" alt="Dead-hang" title="Dead-hang" href="#" coords="1608,1630,58" shape="circle">
+    <area role="click" alt="Dip Hold" title="Dip Hold" href="#" coords="1517,1783,55" shape="circle">
+    <area role="click" alt="Downward Dog" title="Downward Dog" href="#" coords="1669,1802,60" shape="circle">
+    <area role="click" alt="Incline Pushup" title="Incline Pushup" href="#" coords="1784,1847,54" shape="circle">
+    <area role="click" alt="Plank" title="Plank" href="#" coords="1769,1966,57" shape="circle">
+    <area role="click" alt="Box Squat" title="Box Squat" href="#" coords="1746,2088,54" shape="circle">
+    <area role="click" alt="Reverse Lunge" title="Reverse Lunge" href="#" coords="1456,2199,62" shape="circle">
+    <area role="click" alt="Knee Pushup" title="Knee Pushup" href="#" coords="1517,2000,52" shape="circle">
+    <area role="click" alt="Crow Lifts" title="Crow Lifts" href="#" coords="1380,1939,54" shape="circle">
+    <area role="click" alt="Incline Row" title="Incline Row" href="#"  coords="1067,1688,55" shape="circle">
+    <area role="click" alt="Scap Pulls" title="Scap Pulls" href="#" coords="1132,1791,57" shape="circle">
+    <area role="click" alt="Wall HS" title="Wall HS" href="#" coords="1109,1949,52" shape="circle">
+    <area role="click" alt="Hollow Hold" title="Hollow Hold" href="#" coords="1136,2132,48" shape="circle">
+    <area role="click" alt="Step up" title="Step up" href="#" coords="934,2185,55" shape="circle">
+    <area role="click" alt="Knee Raise" title="Knee Raise" href="#" coords="793,2052,57" shape="circle">
+    <area role="click" alt="Pushup" title="Pushup" href="#"  coords="915,1983,54" shape="circle">
+  </map>
+
+  <div id="videoPopup" class="popup">
+    <div class="video-container">
+      <!-- Container for YouTube video player -->
+      <div id="youtubePlayer"></div>
+    </div>
+    <div id="boxRight">
+      <button class="close-button">
+        <img src="closeicon.svg" alt="Close">
+      </button>
+      <h3 id="videoTitle">DEFAULT</h3>
+      <p id="videoDescription">Basic</p>
+    </div>
+  </div>
+</body>
+</html>

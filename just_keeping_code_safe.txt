@@ -1,0 +1,277 @@
+   "Dead-hang": "A static exercise where you hang from a bar with straight arms, engaging the grip and shoulder muscles.",
+    "Dip Hold": "A static exercise where you hold the top position of a dip, with arms fully extended and body supported by the bars, targeting the chest, shoulders, and triceps.",    
+    "Downward Dog": "A yoga pose where you form an inverted V-shape with your body, with hands and feet on the ground, stretching the shoulders, hamstrings, and calves.",
+    "Incline Push-up": "A push-up variation where your hands are elevated on a surface higher than your feet, targeting the chest, shoulders, and triceps.",
+    "Plank": "A core exercise where you hold a straight body position parallel to the ground, supported by forearms and toes, targeting the abdominal muscles and overall core stability.",
+    "Box Squat": "A squat variation where you sit back onto a box or bench before standing up again, focusing on hip and glute strength.",
+    "Reverse Lunge": "A lunge variation where you step backward with one leg, lowering your body until both knees are bent at 90-degree angles, targeting the quadriceps, hamstrings, and glutes.",
+    "Knee Push-up": "A modified push-up where you perform the exercise with your knees on the ground, reducing the load on the upper body muscles.",
+    "Crow": "A yoga arm balance where you balance your body on your hands while leaning forward and lifting your feet off the ground.",
+    "Incline Row": "A rowing exercise where you pull your body up to a bar with your feet elevated on a surface higher than your hands, targeting the back and bicep muscles.",
+    "Scap Pulls": "An exercise that focuses on scapular retraction and depression by pulling the shoulder blades down and together, improving shoulder stability and strength.",
+    "Wall HS": "A handstand variation where you perform a handstand with your back against a wall for support, improving balance and upper body strength.",
+    "Hollow Hold": "A core exercise where you lie on your back and lift your head, shoulders, and legs off the ground, creating a 'hollow' shape and engaging the abdominal muscles.",
+    "Step Up": "A lower body exercise where you step onto a raised platform with one foot and then bring the other foot up, targeting the quadriceps, hamstrings, and glutes.",
+    "Knee Raises": "An exercise where you hang from a bar and lift your knees toward your chest, targeting the abdominal muscles, particularly the lower abs.",
+    "Pushup": "A classic upper body exercise where you start in a plank position and lower your body by bending your arms, targeting the chest, shoulders, and triceps.",
+    "Support Hold": "A static exercise where you hold yourself in a support position on parallel bars or rings, engaging the shoulders, chest, and triceps.",
+    "Full Row": "A rowing exercise where you pull your body up to a bar with arms fully extended, targeting the back and bicep muscles.",
+    "Arch Hang": "A static exercise where you hang from a bar with an arched body position, engaging the shoulders, back, and grip strength.",
+    "Pike Pushup": "A push-up variation where you start in a downward dog position and lower your head toward the ground, targeting the shoulders, triceps, and upper chest.",
+    "Compression": "An exercise that involves actively pulling the knees toward the chest while lying on your back, targeting hip flexor and abdominal strength.",
+    "Glute Ham Raise": "A hamstring exercise where you anchor your feet and use your hamstrings to lift your body from a kneeling position to a horizontal position, targeting the hamstrings and glutes.",
+    "Knee Ab Wheel": "An ab wheel exercise performed on your knees, where you roll the wheel forward while keeping your core engaged, targeting the abdominal muscles.",
+    "Sissy Squat": "A quad-dominant exercise where you lean back and perform a squat with your knees and ankles together, targeting the quadriceps.",
+    "Ring Pushup": "A push-up variation performed on gymnastic rings, challenging stability and strength in the chest, shoulders, and triceps.",
+    "CTW Handstand": "A handstand variation where you perform a handstand with your legs split sideways, creating a 'T' shape with your body.",
+    "Pullup Hold": "A static exercise where you hold the top position of a pull-up, with chin above the bar and arms fully flexed, targeting the back, biceps, and grip strength.",
+    "Jump to invert": "An exercise where you jump from the ground and use your core and upper body strength to bring your feet over a high bar or surface.",
+    "Tuck L Sit": "A core exercise where you sit on the ground, lift your legs and bring your knees toward your chest, while keeping your hands on the ground for support.",
+    "Straddle Compressions": "An exercise that involves actively pulling the legs apart and lifting them toward the chest while sitting on the ground, targeting hip flexor and abdominal strength.",
+    "Diamond Pushup": "A push-up variation where you place your hands close together in a diamond shape, targeting the triceps, chest, and shoulders.",
+    "Negative Pullups": "An eccentric exercise where you jump or step to the top position of a pull-up and slowly lower your body down, focusing on the controlled lowering phase.",
+    "Crow Lift": "A progression from the crow pose, where you transition from a crow position to a handstand position, focusing on upper body and core strength, as well as balance.",
+    "Tuck Dragon Flag": "A core exercise where you hold onto a bar or other horizontal surface, lift your legs up, and slowly lower your body while keeping it straight and parallel to the ground, targeting the abdominal muscles.",
+    "German Hang": "A hanging exercise where you grip a bar and lean backward, allowing your body to hang freely, targeting the shoulders, back, and grip strength.",
+    "Full Dip": "A dip exercise where you lower your body until your shoulders are below your elbows and then press back up, targeting the chest, shoulders, and triceps.",
+    "Wall Kick Up": "An exercise where you kick up against a wall to practice and improve your handstand balance and position.",
+    "Toe to Bar": "An abdominal exercise where you hang from a bar and lift your feet up to touch the bar, targeting the lower and upper abs.",
+    "Reverse Nordic": "A kneeling exercise where you lean backward and use your hamstrings and glutes to control the descent, targeting the quadriceps and knee stability.",
+    "Planche Pushup": "An advanced pushing exercise where you perform a push-up with your body held horizontally, supported only by your hands and the strength of your shoulders and core.",
+    "Ring Dips": "A dip variation performed on gymnastic rings, challenging stability and strength in the chest, shoulders, and triceps.",
+    "HS Hold": "A static exercise where you hold a handstand position against a wall or freestanding, targeting the shoulders, arms, and core.",
+    "L Sit Hold": "A core exercise where you sit on the ground, lift your legs straight in front of you, and hold the position, targeting the abdominal muscles and hip flexors.",
+    "Pike STC": "A core exercise where you start in a pike position, resting on your forearms, and use your core strength to lift your legs up toward your head, targeting the abdominal muscles.",
+    "Pullup": "An upper body exercise where you hang from a bar and pull your body up until your chin is above the bar, targeting the back, biceps, and grip strength.",
+    "PPU Pull": "A pulling exercise where you perform a pull-up and, at the top position, transition into a pike push-up, targeting the back, biceps, shoulders, and triceps.",
+    "ATG Split Squat": "A split squat variation where you perform a squat with one leg forward and the other leg extended behind you, targeting the quadriceps, hamstrings, and glutes.",
+    "One Leg Drag Flag": "An advanced core and upper body exercise where you hold onto a bar and, with one leg extended, lift your body into a horizontal position, resembling a flag.",
+    "Inverted DL": "A hamstring exercise where you start in a standing position and hinge forward at the hips, bringing your upper body toward the ground while keeping your legs straight, targeting the hamstrings and lower back.",
+    "L sit Pullup": "A challenging exercise that combines a pull-up with an L-sit, requiring significant upper body and core strength.",
+    "One Arm Pushup": "A push-up variation where you perform the exercise with one arm, targeting the chest, shoulders, and triceps while challenging stability and strength.",
+    "Cossack Squat": "A squat variation where you perform a lateral lunge with one leg while the other leg is extended straight, targeting the inner and outer thighs, as well as the glutes and quads.",
+    "BTW HSPU": "A handstand push-up variation where you start with your back facing the wall and perform a push-up while in a handstand position, targeting the shoulders, triceps, and upper back.",
+    "Straddle Sit": "A seated position where you open your legs wide apart, creating a straddle shape, stretching the inner thighs and hamstrings.",
+    "False Grip pullup": "A pull-up variation where you use a false grip, gripping the bar with your wrists resting on top, targeting the back, biceps, and grip strength.",
+    "Crow to HS": "A challenging transition where you go from a crow pose to a full handstand, combining upper body and core strength, as well as balance and control.",
+    "Tuck BL": "A core and upper body exercise where you hold onto a bar and, with your legs tucked, lift your body into a horizontal position, targeting the abdominal muscles and upper body strength.",
+    "RTO Dips": "A dip variation performed on gymnastic rings with the rings turned out, challenging stability and strength in the chest, shoulders, and triceps.",
+    "Full GHR": "A hamstring exercise where you anchor your feet and use your hamstrings to lower your body from a horizontal position to a kneeling position, ,targeting the hamstrings and glutes.",
+    "Bent Arm Planche": "An advanced static hold where you support your body horizontally with arms bent, requiring significant upper body and core strength.",
+    "Adv Tuck BL": "An advanced core and upper body exercise where you hold onto a bar and, with your legs tucked, lift your body into a horizontal position, resembling a flag.",
+    "CTW HSPU": "A handstand push-up variation where you start with your back facing the wall and perform a push-up while in a handstand position, with your legs split sideways in a straddle position.",
+    "Tuck FL": "An advanced core and upper body exercise where you hold onto a bar and, with your body tucked and legs extended, lift your body into a horizontal position, targeting the abdominal muscles, shoulders, and grip strength.",
+    "Free HSPU": "A handstand push-up performed without support or assistance, requiring advanced upper body strength, balance, and control."
+
+
+      "Dead-hang": "TI5XcJafIEw",
+  "Dip Hold": "NOTRECORD",
+  "Downward Dog": "NOTRECORD",
+  "Incline Push-up": "d0Quph3lgAg",
+  "Plank": "rbkn8L_57NQ",
+  "Box Squat": "NOTRECORD",
+  "Reverse Lunge": "pHExlHQT2AI",
+  "Knee Push-up": "hlbq0GBxckE",
+  "Crow": "aGWjbomo2ZA",
+  "Incline Row" :"NOTRECORD",
+  "Scap Pulls": "NOTRECORD",
+  "Wall HS": "ilKLt2gTSzk",
+  "Hollow Hold": "hAC5i3oYOZY",
+  "Step Up": "dzJeV5OlFuc",
+  "Knee Raises": "VqsXJ3ngKXyk",
+  "Pushup": "qE7g6nJiACM",
+  "Support Hold": "NOTRECORD",
+  "Full Row": "NOTRECORD",
+  "Arch Hang": "NOTRECORD",
+  "Pike Pushup": "ZnPtZ5qEc3Q",
+  "Compression": "NOTRECORD",
+  "Glute Ham Raise": "PVwOVjh0w_g",
+  "Knee Ab Wheel": "NOTRECORD",
+  "Sissy Squat": "coCCHD45Q6Q",
+  "Ring Pushup": "NKfKb2Kngtw",
+  "CTW Handstand": "vVjEuprwf8s",
+  "Pullup Hold": "NOTRECORD",
+  "Jump to invert": "NOTRECORD",
+  "Tuck L Sit": "NOTRECORD",
+  "Straddle Compressions": "GvkA7fGbWIU",
+  "Diamond Pushup": "NOTRECORD",
+  "Negative Pullups": "tIrDpT_vXo",
+  "Crow Lift": "pktNxDMjMro",
+  "Tuck Dragon Flag": "dNkLm_o6joU",
+  "German Hang": "HBKBp1JuJo8",
+  "Full Dip": "Uw1FngAmr_0",
+  "Wall Kick Up": "6VqWE2PIlUo",
+  "Toe to Bar": "iPq_B8Hk0YY",
+  "Reverse Nordic": "soGKxkERero",
+  "Planche Pushup": "_pLCcPMmwHE",
+  "Ring Dips": "IGeS2p3pyjQ",
+  "HS Hold": "Equj9MntU-0",
+  "L Sit Hold": "PKQ2nEz4Jsg",
+  "Pike STC": "NOTRECORD",
+  "Pullup": "2GzwNKa8m_g",
+  "PPU Pull": "NOTRECORD",
+  "ATG Split Squat": "3DbrH3HsBW0",
+  "One Leg Drag Flag": "mVC1oZ-3Dc8",
+  "Inverted DL": "ZDLqdkcemH0",
+  "L sit Pullup": "xi7lUrHkcQ0",
+  "One Arm Pushup": "4KsOrWSJ3yk",
+  "Cossack Squat": "KcpgGqWxXQI",
+  "BTW HSPU": "Bl_PkV1i3RQ",
+  "Straddle Sit": "NOTRECORD",
+  "False Grip pullup": "DWew1cd2K7k",
+  "Crow to HS": "F9WI67pcqeE",
+  "Tuck BL": "w2xe7scLuAI",
+  "RTO Dips": "NOTRECORD",
+  "Full GHR": "xW55A7CevPk",
+  "Bent Arm Planche": "Dov3gHBTwkM",
+  "Adv Tuck BL": "NOTRECORD",
+  "CTW HSPU": "1tGt8fLC2Ss",
+  "Tuck FL": "6xBY75jAL2c",
+  "Free HSPU": "BWOX5rzshWg",
+  "Pistol Squat": "Ml3ZuHjS_Tc",
+  "Ring Muscle Up": "CzfsiDza8yE",
+  "Tuck Planche": "KUnb7OsP_2w",
+  "One Leg BL": "NOTRECORD",
+  "Bulgarian Dips": "nLbjPiVe5xQ",
+  "Straddle BL": "NOTRECORD",
+  "Full Drag Flag": "FeZKVKYOmIg",
+  "Forward Roll": "T4DVYlByOv0",
+  "L sit to HS": "-dmSoh6RoTQ",
+  "Full BL": "Qm4gFBQllpo",
+  "Front Lever Row": "8F-gC6ACpOo",
+  "V Sit": "MSXtCAjRVWQ",
+  "L Sit Dip": "NOTRECORD",
+  "Straddle Front Lever": "NOTRECORD",
+  "Deep HSPU": "W0EniJ0XqNE",
+  "Advanced Tuck Front Lever Row": "NOTRECORD",
+  "Advanced Tuck Planche": "NOTRECORD",
+  "Shrimp Squat": "FEBZDKy-9a0",
+  "OAC Hold": "NOTRECORD",
+  "Full Flag": "NOTRECORD",
+  "Straddle BL": "NOTRECORD",
+  "Impossible Dip": "NOTRECORD",
+  "Straddle Planche": "twwPFMMUY8o",
+  "Dragon Squat": "NOTRECORD",
+  "One Leg TTB": "NOTRECORD",
+  "High PL HSPU": "NOTRECORD",
+  "Straddle Front Lever": "NOTRECORD",
+  "Full Planche": "NOTRECORD",
+  "Iron Cross": "9viKmQIQI20",
+  "Full Front Lever": "2A12VXXLUqs",
+  "90 Degree HSPU": "RIa5g0ok4QwV",
+  "OA Pullup": "NOTRECORD",
+  "Flag 360": "NOTRECORD",
+  "OA Muscle UP": "NOTRECORD",
+  "Reverse MU": "ldTeMdky57k",
+  "Manna": "NOTRECORD",
+  "Dragon Squat": "NOTRECORD",
+  "Maltese":"NOTRECORD",
+  "Iron Cross Reps": "NOTRECORD",
+  "360 Pulls": "NOTRECORD"
+
+   <area alt="Dead Hang" title="Vertical Hang" href="" onclick="openVideo('Dead-hang'); return false;" coords="1608,1630,58" shape="circle">
+    <area alt="Dip Hold" title="Dip Hold" href="" onclick="openVideo('Dip Hold'); return false;" coords="1517,1783,55" shape="circle">
+    <area alt="Downward Dog" title="Downward Dog" href="" onclick="openVideo('Downward Dog'); return false;" coords="1669,1802,60" shape="circle">
+    <area alt="Crow Lifts" title="Crow Lifts" href="" onclick="openVideo('Crow Lift'); return false;" coords="1380,1939,54" shape="circle">
+    <area alt="Incline Pushup" title="Incline Pushup" href="" onclick="openVideo('Incline Push-up'); return false;" coords="1784,1847,54" shape="circle">
+    <area alt="Knee Pushup" title="Knee Pushup" href="" onclick="openVideo('Knee Push-up'); return false;" coords="1517,2000,52" shape="circle">
+    <area alt="Plank" title="Plank" href="" onclick="openVideo('Plank'); return false;" coords="1769,1966,57" shape="circle">
+    <area alt="Box Squat" title="Box Squat" href="" onclick="openVideo('Box Squat'); return false;" coords="1746,2088,54" shape="circle">
+    <area alt="Reverse Lunge" title="Reverse Lunge" href="" onclick="openVideo('Reverse Lunge'); return false;" coords="1456,2199,62" shape="circle">
+    <area alt="Scap Pulls" title="Scap Pulls" href="" onclick="openVideo('Scap Pulls'); return false;" coords="1132,1791,57" shape="circle">
+    <area alt="Incline Row" title="Incline Row" href="" onclick="openVideo('Incline Row'); return false;" coords="1067,1688,55" shape="circle">
+    <area alt="Full Row" title="Full Row" href="" onclick="openVideo('Full Row'); return false;" coords="816,1530,55" shape="circle">
+    <area alt="Arch Hang" title="Arch Hang" href="" onclick="openVideo('Arch Hang'); return false;" coords="820,1663,50" shape="circle">
+    <area alt="Support Hold" title="Support Hold" href="" onclick="openVideo('Support Hold'); return false;" coords="995,1850,53" shape="circle">
+    <area alt="Wall Handstand" title="Wall Handstand" href="" onclick="openVideo('Wall HS'); return false;" coords="1109,1949,52" shape="circle">
+    <area alt="Pike Pushup" title="Pike Pushup" href="" onclick="openVideo('Pike Pushup'); return false;" coords="640,1732,56" shape="circle">
+    <area alt="Pushup" title="Pushup" href="" onclick="openVideo('Pushup'); return false;" coords="915,1983,54" shape="circle">
+    <area alt="Hollow Hold" title="Hollow Hold" href="" onclick="openVideo('Hollow Hold'); return false;" coords="1136,2132,48" shape="circle">
+    <area alt="Knee Raise" title="Knee Raise" href="" onclick="openVideo('Knee Raises'); return false;" coords="793,2052,57" shape="circle">
+    <area alt="Compression" title="Compression" href="" onclick="openVideo('Compression'); return false;" coords="545,1903,57" shape="circle">
+    <area alt="Step up" title="Step up" href="" onclick="openVideo('Step Up'); return false;" coords="934,2185,55" shape="circle">
+    <area alt="Glute Ham Raise" title="Glute Ham Raise" href="" onclick="openVideo('Glute Ham Raise'); return false;" coords="423,1899,53" shape="circle">
+    <area alt="Sissy Squat" title="Sissy Squat" href="" onclick="openVideo('Sissy Squat'); return false;" coords="187,1557,55" shape="circle">
+    <area alt="Knee Ab Wheel" title="Knee Ab Wheel" href="" onclick="openVideo('Knee Ab Wheel'); return false;" coords="313,1618,54" shape="circle">
+    <area alt="Straddle Compressions" title="Straddle Compressions" href="" onclick="openVideo('Straddle Compressions'); return false;" coords="213,1267,53" shape="circle">
+    <area alt="Tuck Drag Flag" title="Tuck Drag Flag" href="" onclick="openVideo('Tuck Dragon Flag'); return false;" coords="221,989,58" shape="circle">
+    <area alt="Toes to Bar" title="Toes to Bar" href="" onclick="openVideo('Toe to Bar'); return false;" coords="336,711,54" shape="circle">
+    <area alt="Reverse Nordic" title="Reverse Nordic" href="" onclick="openVideo('Reverse Nordic'); return false;" coords="351,520,52" shape="circle">
+    <area alt="Ring Pushup" title="Ring Pushup" href="" onclick="openVideo('Ring Pushup'); return false;" coords="351,1465,54" shape="circle">
+    <area alt="Diamond Pushup" title="Diamond Pushup" href="" onclick="openVideo('Diamond Pushup'); return false;" coords="301,1122,55" shape="circle">
+    <area alt="CTW Handstand" title="CTW Handstand" href="" onclick="openVideo('CTW Handstand'); return false;" coords="416,1347,53" shape="circle">
+    <area alt="Crow" title="Crow" href="" onclick="openVideo('Crow'); return false;" coords="400,1031,50" shape="circle">
+    <area alt="Wall Kickup" title="Wall Kickup" href="" onclick="openVideo('Wall Kick Up'); return false;" coords="507,751,55" shape="circle">
+    <area alt="Tuck L Sit" title="Tuck L Sit" href="" onclick="openVideo(''); return false;" coords="476,1156,58" shape="circle">
+    <area alt="Dip" title="Dip" href="" onclick="openVideo('Full Dip'); return false;" coords="629,726,59" shape="circle">
+    <area alt="Pullup Hold" title="Pullup Hold" href="" onclick="openVideo('Pullup Hold'); return false;" coords="587,1387,57" shape="circle">
+    <area alt="Pullup Negative" title="Pullup Negative" href="" onclick="openVideo('Negative Pullups'); return false;" coords="561,1051,55" shape="circle">
+    <area alt="Jump to Invert" title="Jump to Invert" href="" onclick="openVideo('Jump to invert'); return false;" coords="633,1227,51" shape="circle">
+    <area alt="German Hang" title="German Hang" href="" onclick="openVideo('German Hang'); return false;" coords="702,914,54" shape="circle">
+    <area alt="Planche Pushup" title="Planche Pushup" href="" onclick="openVideo('Planche Pushup'); return false;" coords="640,484,54" shape="circle">
+    <area alt="Full Ring Dip" title="Full Ring Dip" href="" onclick="openVideo('Ring Dips'); return false;" coords="778,583,53" shape="circle">
+    <area alt="Handstand Hold" title="Handstand Hold" href="" onclick="openVideo('HS Hold'); return false;" coords="816,461,54" shape="circle">
+    <area alt="L sit Hold" title="L sit Hold" href="" onclick="openVideo('L Sit Hold'); return false;" coords="824,290,52" shape="circle">
+    <area alt="ATG split squat" title="ATG split squat" href="" onclick="openVideo('ATG Split Squat'); return false;" coords="1018,145,54" shape="circle">
+    <area alt="Pike STC" title="Pike STC" href="" onclick="openVideo('Pike STC'); return false;" coords="961,659,52" shape="circle">
+    <area alt="Pullup" title="Pullup" href="" onclick="openVideo('Pullup'); return false;" coords="1041,545,54" shape="circle">
+    <area alt="PPU lifts" title="PPU lifts" href="" onclick="openVideo('PPU Pull'); return false;" coords="1071,373,52" shape="circle">
+    <area alt="One Leg Dragflag" title="One Leg Dragflag" href="" onclick="openVideo('One Leg Drag Flag'); return false;" coords="1269,213,51" shape="circle">
+    <area alt="Deep Ring Dip" title="Deep Ring Dip" href="" onclick="openVideo(''); return false;" coords="1201,438,55" shape="circle">
+    <area alt="Upside Down Deadlift" title="Upside Down Deadlift" href="" onclick="openVideo('Inverted DL'); return false;" coords="1216,634,51" shape="circle">
+    <area alt="L-Sit Pullup" title="L-Sit Pullup" href="" onclick="openVideo('L sit Pullup'); return false;" coords="1346,547,56" shape="circle">
+    <area alt="One-arm Pushup" title="One-arm Pushup" href="" onclick="openVideo('One Arm Pushup'); return false;" coords="1441,320,54" shape="circle">
+    <area alt="BTW HSPU" title="BTW HSPU" href="" onclick="openVideo('BTW HSPU'); return false;" coords="1639,503,51" shape="circle">
+    <area alt="Falsegrip Pullup" title="Falsegrip Pullup" href="" onclick="openVideo('False Grip pullup'); return false;" coords="1662,726,53" shape="circle">
+    <area alt="Tuck BL" title="Tuck BL" href="" onclick="openVideo(''); return false;" coords="1673,880,57" shape="circle">
+    <area alt="ADV Tuck BL" title="ADV Tuck BL" href="" onclick="openVideo('Tuck BL'); return false;" coords="1830,1103,53" shape="circle">
+    <area alt="RTO Dip" title="RTO Dip" href="" onclick="openVideo('RTO Dips'); return false;" coords="1856,825,54" shape="circle">
+    <area alt="Crow to Handstand" title="Crow to Handstand" href="" onclick="openVideo('Crow to HS'); return false;" coords="1868,693,54" shape="circle">
+    <area alt="Straddle Sit" title="Straddle Sit" href="" onclick="openVideo('Straddle Sit'); return false;" coords="1887,516,49" shape="circle">
+    <area alt="Cossack Squat" title="Cossack Squat" href="" onclick="openVideo('Cossack Squat'); return false;" coords="1784,326,53" shape="circle">
+    <area alt="Glute ham raise" title="Glute ham raise" href="" onclick="openVideo('Full GHR'); return false;" coords="2142,682,56" shape="circle">
+    <area alt="Bent Arms Planche" title="Bent Arms Planche" href="" onclick="openVideo('Bent Arm Planche'); return false;" coords="2055,842,52" shape="circle">
+    <area alt="Chess To Wall Handstand Pushup" title="Chess To Wall Handstand Pushup" href="" onclick="openVideo('CTW HSPU'); return false;" coords="2066,1023,53" shape="circle">
+    <area alt="Tuck Front Leaver" title="Tuck Front Leaver" href="" onclick="openVideo('Tuck FL'); return false;" coords="2020,1435,52" shape="circle">
+    <area alt="One Leg Back Leaver" title="One Leg Back Leaver" href="" onclick="openVideo('One Leg BL'); return false;" coords="2158,1661,56" shape="circle">
+    <area alt="Straddle Back Leaver" title="Straddle Back Leaver" href="" onclick="openVideo('Straddle BL'); return false;" coords="2329,1865,52" shape="circle">
+    <area alt="Ring MuscleUp" title="Ring MuscleUp" href="" onclick="openVideo('Ring Muscle Up'); return false;" coords="2230,1501,75" shape="circle">
+    <area alt="Free Handstand Pushup" title="Free Handstand Pushup" href="" onclick="openVideo('Free HSPU'); return false;" coords="2249,1311,57" shape="circle">
+    <area alt="Pistol Squat" title="Pistol Squat" href="" onclick="openVideo('Pistol Squat'); return false;" coords="2466,1221,51" shape="circle">
+    <area alt="Tuck Planche" title="Tuck Planche" href="" onclick="openVideo('Tuck Planche'); return false;" coords="2436,1441,54" shape="circle">
+    <area alt="Bulgarian Dip" title="Bulgarian Dip" href="" onclick="openVideo('Bulgarian Dips'); return false;" coords="2386,1627,58" shape="circle">
+    <area alt="Full Drag Flag" title="Full Drag Flag" href="" onclick="openVideo('Full Drag Flag'); return false;" coords="2672,1596,59" shape="circle">
+    <area alt="Forward Roll" title="Forward Roll" href="" onclick="openVideo('Forward Roll'); return false;" coords="2695,1970,71" shape="circle">
+    <area alt="Full Back Leaver" title="Full Back Leaver" href="" onclick="openVideo('Full BL'); return false;" coords="2691,2138,54" shape="circle">
+    <area alt="L-Sit to Handstand" title="L-Sit to Handstand" href="" onclick="openVideo('L sit to HS'); return false;" coords="2828,1888,54" shape="circle">
+    <area alt="Front Leaver Row" title="Front Leaver Row" href="" onclick="openVideo('Front Lever Row'); return false;" coords="2912,2113,54" shape="circle">
+    <area alt="V Sit" title="V Sit" href="" onclick="openVideo('V Sit'); return false;" coords="3145,1802,54" shape="circle">
+    <area alt="L Sit Dip" title="L Sit Dip" href="" onclick="openVideo('L Sit Dip'); return false;" coords="3145,2048,51" shape="circle">
+    <area alt="Straddle Front Leaver" title="Straddle Front Leaver" href="" onclick="openVideo('Straddle Front Lever'); return false;" coords="3133,2221,51" shape="circle">
+    <area alt="Advanced Tuck Front Leaver Row" title="Advanced Tuck Front Leaver Row" href="" onclick="openVideo('Advanced Tuck Front Lever Row'); return false;" coords="3339,2113,52" shape="circle">
+    <area alt="Deep Handstand Pushup" title="Deep Handstand Pushup" href="" onclick="openVideo('Deep HSPU'); return false;" coords="3286,1949,50" shape="circle">
+    <area alt="Advanced Tuck Planche" title="Advanced Tuck Planche" href="" onclick="openVideo('Advanced Tuck Planche'); return false;" coords="3377,1835,58" shape="circle">
+    <area alt="Shrimp Squat" title="Shrimp Squat" href="" onclick="openVideo('Shrimp Squat'); return false;" coords="3339,1665,54" shape="circle">
+    <area alt="OAC Hold" title="OAC Hold" href="" onclick="openVideo('OAC Hold'); return false;" coords="3648,1970,58" shape="circle">
+    <area alt="Flag" title="Flag" href="" onclick="openVideo('Full Flag'); return false;" coords="3880,1776,52" shape="circle">
+    <area alt="Straddle Back Leaver" title="Straddle Back Leaver" href="" onclick="openVideo('Straddle BL'); return false;" coords="4063,1635,54" shape="circle">
+    <area alt="Impossible Dip" title="Impossible Dip" href="" onclick="openVideo('Impossible Dip'); return false;" coords="3926,1555,55" shape="circle">
+    <area alt="Straddle Planche" title="Straddle Planche" href="" onclick="openVideo('Straddle Planche'); return false;" coords="3774,1520,53" shape="circle">
+    <area alt="Dragon Squat (Floor)" title="Dragon Squat (Floor)" href="" onclick="openVideo('Dragon Squat'); return false;" coords="3660,1337,53" shape="circle">
+    <area alt="One Leg TTB" title="One Leg TTB" href="" onclick="openVideo('One Leg TTB'); return false;" coords="3766,1174,54" shape="circle">
+    <area alt="High PL Handstand to Pushup" title="High PL Handstand to Pushup" href="" onclick="openVideo('High PL HSPU'); return false;" coords="3934,1202,54" shape="circle">
+    <area alt="Straddle FrontLeaver" title="Straddle FrontLeaver" href="" onclick="openVideo('Straddle Front Lever'); return false;" coords="4185,1105,55" shape="circle">
+    <area alt="Front Leaver" title="Front Leaver" href="" onclick="openVideo('Full Front Lever'); return false;" coords="4117,779,53" shape="circle">
+    <area alt="Iron Cross" title="Iron Cross" href="" onclick="openVideo('Iron Cross'); return false;" coords="3960,871,54" shape="circle">
+    <area alt="Planche" title="Planche" href="" onclick="openVideo('Full Planche'); return false;" coords="3785,903,57" shape="circle">
+    <area alt="Full Nordic" title="Full Nordic" href="" onclick="openVideo(''); return false;" coords="3640,991,55" shape="circle">
+    <area alt="Dragon Squat" title="Dragon Squat" href="" onclick="openVideo('Dragon Squat'); return false;" coords="3385,663,54" shape="circle">
+    <area alt="Manna" title="Manna" href="" onclick="openVideo('Manna'); return false;" coords="3545,691,55" shape="circle">
+    <area alt="Maltese" title="Maltese" href="" onclick="openVideo('Maltese'); return false;" coords="3511,533,52" shape="circle">
+    <area alt="90 Degrees Handstand Pushup" title="90 Degrees Handstand Pushup" href="" onclick="openVideo('90 Degree HSPU'); return false;"coords="3819,741,56" shape="circle">
+    <area alt="Rev MU" title="Rev MU" href="" onclick="openVideo('Reverse MU'); return false;" coords="3663,551,54" shape="circle">
+    <area alt="One Arm Pullup" title="One Arm Pullup" href="" onclick="openVideo('OA Pullup'); return false;" coords="3972,697,54" shape="circle">
+    <area alt="360 Degrees Flag" title="360 Degrees Flag" href="" onclick="openVideo('Flag 360'); return false;" coords="3896,564,53" shape="circle">
+    <area alt="One Arm Muscle Up" title="One Arm Muscle Up" href="" onclick="openVideo('OA Muscle UP'); return false;" coords="3789,459,50" shape="circle">
+    <area alt="Iron Cross Reps" title="Iron Cross Reps" href="" onclick="openVideo('Iron Cross Reps'); return false;" coords="3614,413,50" shape="circle">
+    <area alt="360 Pulls" title="360 Pulls" href="" onclick="openVideo('360 Pulls'); return false;" coords="3766,305,53" shape="circle">
